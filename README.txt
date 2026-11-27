@@ -1,0 +1,1 @@
+GitHubiin: index.html, game.js, apple-touch-icon.png, icon-192.png, icon-512.png ja manifest.webmanifest. iPhonessa avaa Pages-linkki Safarissa ja valitse Jaa > Lisää Koti-valikkoon. Jos vanha pikakuvake on jo Koti-valikossa, poista se ja lisää uudelleen, jotta uusi tonttukuvake tulee käyttöön.
